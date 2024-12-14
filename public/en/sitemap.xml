@@ -2,52 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-        <loc>http://localhost:1313/authors/</loc>
+        <loc>https://derossimolina.com.br/</loc>
+        <lastmod>2024-12-14T16:09:29-03:00</lastmod>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="http://localhost:1313/pt/authors/"
+          href="https://derossimolina.com.br/pt/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="http://localhost:1313/authors/"
+          href="https://derossimolina.com.br/"
         />
       </url><url>
-        <loc>http://localhost:1313/categories/</loc>
+        <loc>https://derossimolina.com.br/posts/</loc>
+        <lastmod>2024-12-14T16:09:29-03:00</lastmod>
+      </url><url>
+        <loc>https://derossimolina.com.br/authors/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="http://localhost:1313/pt/categories/"
+          href="https://derossimolina.com.br/pt/authors/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="http://localhost:1313/categories/"
+          href="https://derossimolina.com.br/authors/"
         />
       </url><url>
-        <loc>http://localhost:1313/</loc>
+        <loc>https://derossimolina.com.br/categories/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="http://localhost:1313/pt/"
+          href="https://derossimolina.com.br/pt/categories/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="http://localhost:1313/"
+          href="https://derossimolina.com.br/categories/"
         />
       </url><url>
-        <loc>http://localhost:1313/tags/</loc>
+        <loc>https://derossimolina.com.br/tags/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="http://localhost:1313/pt/tags/"
+          href="https://derossimolina.com.br/pt/tags/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="http://localhost:1313/tags/"
+          href="https://derossimolina.com.br/tags/"
         />
       </url>
 </urlset>

@@ -29,6 +29,8 @@ locale = "en-us"
 math = true # true: enable mathjax globally (default is false)
 toc = true
 
+staticFIles = ["CNAME"]
+
 social = [
     { id = "github", url = "https://github.com/jeronimo-molina" },
     { id = "linkedin", url = "https://www.linkedin.com/in/molinajeronimo" },
