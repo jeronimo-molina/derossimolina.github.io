@@ -1,0 +1,115 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+theme = 'anubis2'
+title = 'J. de Rossi Molina'
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+
+[pagination]
+pagerSize = 5
+
+[params.author]
+name = 'J. de Rossi Molina'
+location = 'São Paulo, Brazil'
+
+[params]
+description = "I'm PhD candidate in History, Politics and Power Relations, talking about international politics and software development."
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+
+colorTheme = "auto"
+colorThemeSwitcher = true
+
+readMore = true
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = false
+locale = "en-us"
+math = true # true: enable mathjax globally (default is false)
+toc = true
+
+social = [
+    { id = "github", url = "https://github.com/jeronimo-molina" },
+    { id = "linkedin", url = "https://www.linkedin.com/in/molinajeronimo" },
+    { id = "email", url = "jeronimo@derossimolina.com.br" },
+    { id = "instagram", url = "https://instagram.com/derossimolina" },
+    { id = "x", url = "https://x.com/jdermolina" }
+]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 4
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.pt]
+languageName = "Português"
+
+[[languages.pt.menu.main]]
+identifier = "home"
+name = "Início"
+url = "/"
+weight = 1
+
+[[languages.pt.menu.main]]
+identifier = "about"
+name = "Sobre"
+url = "/about/"
+weight = 2
+
+[[languages.pt.menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[languages.pt.menu.main]]
+identifier = "archive"
+name = "Arquivo"
+url = "/posts/"
+weight = 4
+
+[languages.pt.params]
+languageCode = "pt-br"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
+
+[markup]
+defaultMarkdownHandler = 'goldmark'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos      = false
+codeFences         = true # tested with true and false. Both work.
+noClasses          = true # If you run with markup.highlight.noClasses=false in your site configuration, you need a style sheet.
+style              = 'catppuccin-frappe' # Find more style at here: https://swapoff.org/chroma/playground/
+tabWidth           = 4
