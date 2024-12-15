@@ -40,6 +40,8 @@ social = [
     
 ]
 
+enableEmoji = true
+
 [[menu.main]]
 identifier = "home"
 name = "Home"
