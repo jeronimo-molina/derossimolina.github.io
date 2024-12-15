@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on J. de Rossi Molina</title>
+    <link>/tags/about/</link>
+    <description>J. de Rossi Molina (About)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+      
+
+      
+    
+
+    
+    
+    <atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#about-me&#34;&gt;
+        ##
+    &lt;/a&gt;
+    About Me
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
+  &lt;div style=&#34;flex: 1; padding-right: 20px;&#34;&gt;
+    ![Me](https://pbs.twimg.com/profile_images/1586606528336896000/qZ9Hb9DQ_400x400.jpg) &lt;!-- Substitua o link com o caminho da sua foto --&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 2;&#34;&gt;
+    I&#39;m **Jeronimo de Rossi Molina**, currently pursuing a PhD in History at UPF, focusing on international politcs. I&#39;m Master&#39;s in Administration and graduated in Foreign Trade. 
+&lt;pre&gt;&lt;code&gt;Additionally, I&#39;m a professor of **Administration**, with expertise in international trade and foreign policy analysis, and I created a **newsletter** on Substack to share my ideas on foreign policy and international relations.
+
+In the tech field, I am passionate about automation solutions and use tools such as **Python**, **Flask**, **Obsidian**, and **Hugo** to manage academic projects and develop custom solutions. I am interested in building mobile applications and am always looking to learn new programming languages.
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;academic-papers&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#academic-papers&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Academic Papers
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h1 id=&#34;research-projects&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#research-projects&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Research Projects
+&lt;/div&gt;
+&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

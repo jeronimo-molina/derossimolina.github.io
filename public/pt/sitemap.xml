@@ -67,18 +67,6 @@
           href="https://derossimolina.com.br/pt/posts/test/"
         />
       </url><url>
-        <loc>https://derossimolina.com.br/pt/about/</loc>
-        <xhtml:link
-          rel="alternate"
-          hreflang="en"
-          href="https://derossimolina.com.br/about/"
-        />
-        <xhtml:link
-          rel="alternate"
-          hreflang="pt"
-          href="https://derossimolina.com.br/pt/about/"
-        />
-      </url><url>
         <loc>https://derossimolina.com.br/pt/authors/</loc>
         <xhtml:link
           rel="alternate"
@@ -101,6 +89,18 @@
           rel="alternate"
           hreflang="pt"
           href="https://derossimolina.com.br/pt/categories/"
+        />
+      </url><url>
+        <loc>https://derossimolina.com.br/pt/about/</loc>
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://derossimolina.com.br/about/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="https://derossimolina.com.br/pt/about/"
         />
       </url>
 </urlset>

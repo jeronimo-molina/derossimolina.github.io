@@ -29,12 +29,34 @@
     </item>
     
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description></description>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+&lt;img src=&#34;https://media.licdn.com/dms/image/v2/C5103AQFMZ_mAtkpEQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517044166602?e=1740009600&amp;v=beta&amp;t=xZtnvPM3w8Hu2q2RXYyS42L5HUSWw5aWa2rfuCMFM58&#34; alt=&#34;Jeronimo Molina&#34; style=&#34;width: 250px; float: right; margin-left: 20px; border-radius: 30%;&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Jeronimo de Rossi Molina&lt;/strong&gt;, currently pursuing a &lt;strong&gt;PhD in History at University of Passo Fundo&lt;/strong&gt;, focusing on &lt;strong&gt;international politcs&lt;/strong&gt;, &lt;strong&gt;History&lt;/strong&gt; and &lt;strong&gt;data science&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Additionally, I&amp;rsquo;m a professor of &lt;strong&gt;Administration&lt;/strong&gt;, with expertise in international trade and foreign policy analysis, and I created a &lt;strong&gt;newsletter&lt;/strong&gt; on Substack to share my ideas on foreign policy and international relations.&lt;/p&gt;
+&lt;p&gt;In the tech field, I am passionate about automation solutions and use tools such as &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;Flask&lt;/strong&gt;, &lt;strong&gt;Obsidian&lt;/strong&gt;, and &lt;strong&gt;Hugo&lt;/strong&gt; to manage academic projects and develop custom solutions. I am interested in building mobile applications and am always looking to learn new programming languages.&lt;/p&gt;
+&lt;h1 id=&#34;academic-papers&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#academic-papers&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Academic Papers
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h1 id=&#34;research-projects&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#research-projects&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Research Projects
+&lt;/div&gt;
+&lt;/h1&gt;
+</description>
     </item>
     
   </channel>
