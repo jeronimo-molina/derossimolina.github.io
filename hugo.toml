@@ -14,6 +14,7 @@ name = 'J. de Rossi Molina'
 location = 'São Paulo, Brazil'
 
 [params]
+rssAsSocialIcon = false
 description = "I'm PhD candidate in History, Politics and Power Relations, talking about international politics and software development."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
@@ -21,10 +22,11 @@ paginationSinglePost = true
 colorTheme = "auto"
 colorThemeSwitcher = true
 
+
 readMore = true
 readNextPosts = 2
 copyCodeButton = true
-rssAsSocialIcon = false
+
 locale = "en-us"
 math = true # true: enable mathjax globally (default is false)
 toc = true
@@ -33,10 +35,9 @@ staticFIles = ["CNAME"]
 
 social = [
     { id = "github", url = "https://github.com/jeronimo-molina" },
-    { id = "linkedin", url = "https://www.linkedin.com/in/molinajeronimo" },
-    { id = "email", url = "jeronimo@derossimolina.com.br" },
-    { id = "instagram", url = "https://instagram.com/derossimolina" },
-    { id = "x", url = "https://x.com/jdermolina" }
+    { id = "x", url = "https://x.com/jdermolina" },
+    { id = "linkedin", url = "https://www.linkedin.com/in/molinajeronimo" }
+    
 ]
 
 [[menu.main]]

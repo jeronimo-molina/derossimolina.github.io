@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. de Rossi Molina</title>
-    <link>/pt/</link>
-    <description>J. de Rossi Molina</description>
+    <title>Posts on J. de Rossi Molina</title>
+    <link>/pt/posts/</link>
+    <description>J. de Rossi Molina (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     
@@ -15,7 +15,7 @@
     
     <lastBuildDate>Sat, 14 Dec 2024 16:09:29 -0300</lastBuildDate>
     
-    <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/pt/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,15 +26,6 @@
       <guid>/pt/posts/test/</guid>
       <description>&lt;p&gt;Esse é um teste.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/pt/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pt/about/</guid>
-      <description></description>
     </item>
     
   </channel>
