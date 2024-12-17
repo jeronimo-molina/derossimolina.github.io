@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project_tags on J. de Rossi Molina</title>
-    <link>https://derossimolina.com.br/project_tags/</link>
+    <link>http://localhost:1313/project_tags/</link>
     <description>Recent content in Project_tags on J. de Rossi Molina</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>© 2024 J. de Rossi Molina</copyright>
-    <atom:link href="https://derossimolina.com.br/project_tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/project_tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
