@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/garden_tags/</loc>
+    <loc>https://derossimolina.com.br/garden/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://derossimolina.com.br/garden/python_history/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/library_tags/</loc>
+    <loc>https://derossimolina.com.br/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project_tags/</loc>
+    <loc>https://derossimolina.com.br/garden_tags/</loc>
+  </url><url>
+    <loc>https://derossimolina.com.br/library_tags/</loc>
+  </url><url>
+    <loc>https://derossimolina.com.br/project_tags/</loc>
   </url>
 </urlset>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. de Rossi Molina</title>
-    <link>https://derossimolina.com.br/</link>
-    <description>Recent content on J. de Rossi Molina</description>
+    <title>Gardens on J. de Rossi Molina</title>
+    <link>https://derossimolina.com.br/garden/</link>
+    <description>Recent content in Gardens on J. de Rossi Molina</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2024 J. de Rossi Molina</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://derossimolina.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://derossimolina.com.br/garden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>História do Python</title>
       <link>https://derossimolina.com.br/garden/python_history/</link>
