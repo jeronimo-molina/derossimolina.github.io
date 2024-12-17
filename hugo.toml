@@ -1,102 +1,131 @@
 baseURL = 'https://derossimolina.com.br/'
 languageCode = 'en-us'
 title = 'J. de Rossi Molina'
-theme = 'hugo-digital-garden-theme'
+theme = 'hugo-theme-anubis2'
 copyright = '© 2024 J. de Rossi Molina'    
 defaultContentLanguage = "en"
+
+[pagination]
+pagerSize = 5
+
+
+[params.author]
+name = "J. de Rossi Molina"
+email  = "jeronimo@derossimolina.com.br"
+location = "Sao Paulo, Brazil"
+
+[params]
+description = "PhD candidate in History that writes about international politics and data science."
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+
+# icp = "京ICP备xxxxx号-1" # for China ICP license
+# police = "京公网安备 12345678号" # for China police beian
+
+colorTheme = "auto"
+colorThemeSwitcher = true
+
+readMore = true
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+locale = "en-us"
+math = true # true: enable mathjax globally (default is false)
+toc = true
+
+
+social = [
+    { id = "github", url = "https://github.com/jeronimo-molina" },
+    { id = "linkedin", url = "https://www.linkedin.com/in/molinajeronimo" },
+    { id = "email", url = "jeronimo@derossimolina.com.br" },
+    { id = "x", url = "https://x.com/jdermolina" },
+]
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = "garden"
+name = "Digital Garden"
+url = "/garden/"
+weight = 3
+
+[[languages.en.menu.main]]
+name = "Projects"
+identifier = "projects"
+url = "/projects/"
+weight = 4
+
+[[languages.en.menu.main]]
+name = "Library"
+identifier = "library"
+url = "/library/"
+weight = 5
 
 [languages]
 [languages.en]
 languageName = "English"
 
+
 [languages.pt]
 languageName = "Português"
 
 [[languages.pt.menu.main]]
-identifier = "garden"
-name = "Jardim Digital"
-url = "/garden/"
+identifier = "home"
+name = "Íncio"
+url = "/"
 weight = 1
-
-[[languages.pt.menu.main]]
-identifier = "projects"
-name = "Projetos"
-url = "/projects/"
-weight = 2
-
-[[languages.pt.menu.main]]
-identifier = "library"
-name = "Biblioteca"
-url = "/library/"
-weight = 3
 
 [[languages.pt.menu.main]]
 identifier = "about"
 name = "Sobre"
 url = "/about/"
+weight = 2
+
+[[languages.pt.menu.main]]
+identifier = "projects"
+name = "Projetos"
+url = "/projects/"
+weight = 3
+
+[[languages.pt.menu.main]]
+identifier = "library"
+name = "Biblioteca"
+url = "/library/"
 weight = 4
+
+[[languages.pt.menu.main]]
+identifier = "garden"
+name = "Jardim Digital"
+url = "/garden/"
+weight = 5
 
 [languages.pt.params]
 languageCode = "pt-br"
 
-[params]
-  name = "J. de Rossi Molina"
-  description = "PhD in History that writes international politics and data science"
-
-
-  [[params.social]]
-    name = "Github"
-    link = "https://github.com/jeronimo-molina"
-    icon = "fab fa-github"
-
-  [[params.social]]
-    name = "LinkedIn"
-    link = "https://www.linkedin.com/in/molinajeronimo/"
-    icon = "fab fa-linkedin-in"
-
-[menu]
-  [[menu.main]]
-    name = "Digital Garden"
-    url = "/garden/"
-    weight = 1
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 2
-  [[menu.main]]
-    name = "Library"
-    url = "/library/"
-    weight = 3
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
-
 [taxonomies]
-  garden_tags = 'garden_tags'
-  project_tags = 'project_tags'
-  library_tags = 'library_tags'
-
+category = "categories"
+tag = "tags"
+author = "authors"
 
 [markup]
-  defaultMarkdownHandler = 'goldmark'
-  [markup.goldmark.renderer]
-    unsafe = true
-  [markup.goldmark.parser]
-    autoHeadingID = true
-    autoHeadingIDType = 'github'
-    wrapStandAloneImageWithinParagraph = true
-    [markup.goldmark.parser.attribute]
-      block = false
-      title = true
-  [markup.goldmark.extensions]
-    definitionList = true
-    footnote = true
-    linkify = true
-    strikethrough = true
-    table = true
-    taskList = true
-    typographer = true
-  [markup.highlight]
-    # Choose from https://xyproto.github.io/splash/docs/all.html
-    style = 'monokailight'
+defaultMarkdownHandler = 'goldmark'
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+anchorLineNos      = false
+codeFences         = true # tested with true and false. Both work.
+noClasses          = true # If you run with markup.highlight.noClasses=false in your site configuration, you need a style sheet.
+style              = 'catppuccin-frappe' # Find more style at here: https://swapoff.org/chroma/playground/
+tabWidth           = 4

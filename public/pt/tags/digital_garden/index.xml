@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gardens on J. de Rossi Molina</title>
-    <link>/garden/</link>
-    <description>J. de Rossi Molina (Gardens)</description>
+    <title>Digital_garden on J. de Rossi Molina</title>
+    <link>/pt/tags/digital_garden/</link>
+    <description>J. de Rossi Molina (Digital_garden)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>pt</language>
     
       
         <managingEditor>jeronimo@derossimolina.com.br
@@ -22,24 +22,16 @@
     <copyright>© 2024 J. de Rossi Molina</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="/garden/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/pt/tags/digital_garden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>História do Python</title>
-      <link>/garden/python_history/</link>
+      <link>/pt/garden/python_history/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <author>jeronimo@derossimolina.com.br (J. de Rossi Molina)</author>
-      <guid>/garden/python_history/</guid>
-      <description>&lt;h2 id=&#34;introdução&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#introdu%c3%a7%c3%a3o&#34;&gt;
-        #
-    &lt;/a&gt;
-    Introdução
-&lt;/div&gt;
-&lt;/h2&gt;
-&lt;p&gt;Python foi criado no final dos anos 1980, numa época em que as linguagens de programação mais comuns eram complexas e voltadas para profissionais da área de Computação. Guido van Rossum, o programador holandês responsável pela criação, tinha em mente desenvolver uma linguagem de programação simples e fácil de aprender. Ele queria que a programação fosse acessível a mais pessoas, sem exigir delas um profundo conhecimento técnico. Assim, Python nasceu com a promessa de ser &amp;ldquo;fácil de ler e escrever&amp;rdquo;. E por que o nome Python? Van Rossum era fã do grupo de comédia britânico &amp;ldquo;Monty Python’s Flying Circus&amp;rdquo; e decidiu batizar a linguagem em homenagem a eles, trazendo também um certo ar de leveza e simplicidade, características que ficaram marcadas na linguagem.&lt;/p&gt;
+      <guid>/pt/garden/python_history/</guid>
+      <description>&lt;p&gt;Python foi criado no final dos anos 1980, numa época em que as linguagens de programação mais comuns eram complexas e voltadas para profissionais da área de Computação. Guido van Rossum, o programador holandês responsável pela criação, tinha em mente desenvolver uma linguagem de programação simples e fácil de aprender. Ele queria que a programação fosse acessível a mais pessoas, sem exigir delas um profundo conhecimento técnico. Assim, Python nasceu com a promessa de ser &amp;ldquo;fácil de ler e escrever&amp;rdquo;. E por que o nome Python? Van Rossum era fã do grupo de comédia britânico &amp;ldquo;Monty Python’s Flying Circus&amp;rdquo; e decidiu batizar a linguagem em homenagem a eles, trazendo também um certo ar de leveza e simplicidade, características que ficaram marcadas na linguagem.&lt;/p&gt;
 &lt;p&gt;Para entender a importância desse marco, vale lembrar que, naquela época, a programação era considerada um território técnico e árido. Linguagens como C, por exemplo, exigiam muito conhecimento em detalhes específicos, e a curva de aprendizado era tão íngreme que poucos fora das áreas de Exatas se aventuravam por ali. Python veio para desafiar essa tradição, buscando tornar a programação acessível para todos, inclusive para os que não tinham uma formação técnica – e nisso, conseguiu brilhar. Desde o início, Python priorizou a clareza e a legibilidade do código, facilitando a entrada de novos programadores, especialmente de áreas como Ciências Humanas, que lidam com dados, mas não têm programação como foco central.&lt;/p&gt;
 &lt;h2 id=&#34;sintaxe&#34; &gt;
 &lt;div&gt;
