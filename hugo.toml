@@ -3,7 +3,41 @@ languageCode = 'en-us'
 title = 'J. de Rossi Molina'
 theme = 'hugo-digital-garden-theme'
 copyright = '© 2024 J. de Rossi Molina'    
+defaultContentLanguage = "en"
 
+[languages]
+[languages.en]
+languageName = "English"
+
+[languages.pt]
+languageName = "Português"
+
+[[languages.pt.menu.main]]
+identifier = "garden"
+name = "Jardim Digital"
+url = "/garden/"
+weight = 1
+
+[[languages.pt.menu.main]]
+identifier = "projects"
+name = "Projetos"
+url = "/projects/"
+weight = 2
+
+[[languages.pt.menu.main]]
+identifier = "library"
+name = "Biblioteca"
+url = "/library/"
+weight = 3
+
+[[languages.pt.menu.main]]
+identifier = "about"
+name = "Sobre"
+url = "/about/"
+weight = 4
+
+[languages.pt.params]
+languageCode = "pt-br"
 
 [params]
   name = "J. de Rossi Molina"
