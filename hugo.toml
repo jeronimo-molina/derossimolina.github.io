@@ -7,12 +7,7 @@ copyright = '© 2024 J. de Rossi Molina'
 [params]
   name = "J. de Rossi Molina"
   description = "PhD in History that writes international politics and data science"
-  initials = "JRM"
 
-  [[params.social]]
-    name = "X"
-    link = "https://x.com/jdermolina"
-    icon = "fab fa-x"
 
   [[params.social]]
     name = "Github"
