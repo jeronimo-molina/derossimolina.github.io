@@ -2,6 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+        <loc>https://derossimolina.com.br/tags/digital_garden/</loc>
+        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="https://derossimolina.com.br/pt/tags/digital_garden/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://derossimolina.com.br/tags/digital_garden/"
+        />
+      </url><url>
+        <loc>https://derossimolina.com.br/garden/</loc>
+        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="https://derossimolina.com.br/pt/garden/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://derossimolina.com.br/garden/"
+        />
+      </url><url>
+        <loc>https://derossimolina.com.br/garden/python_history/</loc>
+        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="https://derossimolina.com.br/pt/garden/python_history/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://derossimolina.com.br/garden/python_history/"
+        />
+      </url><url>
+        <loc>https://derossimolina.com.br/</loc>
+        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="https://derossimolina.com.br/pt/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://derossimolina.com.br/"
+        />
+      </url><url>
+        <loc>https://derossimolina.com.br/tags/python/</loc>
+        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="https://derossimolina.com.br/pt/tags/python/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://derossimolina.com.br/tags/python/"
+        />
+      </url><url>
+        <loc>https://derossimolina.com.br/tags/</loc>
+        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="https://derossimolina.com.br/pt/tags/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://derossimolina.com.br/tags/"
+        />
+      </url><url>
         <loc>https://derossimolina.com.br/authors/</loc>
         <xhtml:link
           rel="alternate"
@@ -24,30 +102,6 @@
           rel="alternate"
           hreflang="en"
           href="https://derossimolina.com.br/categories/"
-        />
-      </url><url>
-        <loc>https://derossimolina.com.br/</loc>
-        <xhtml:link
-          rel="alternate"
-          hreflang="pt"
-          href="https://derossimolina.com.br/pt/"
-        />
-        <xhtml:link
-          rel="alternate"
-          hreflang="en"
-          href="https://derossimolina.com.br/"
-        />
-      </url><url>
-        <loc>https://derossimolina.com.br/tags/</loc>
-        <xhtml:link
-          rel="alternate"
-          hreflang="pt"
-          href="https://derossimolina.com.br/pt/tags/"
-        />
-        <xhtml:link
-          rel="alternate"
-          hreflang="en"
-          href="https://derossimolina.com.br/tags/"
         />
       </url>
 </urlset>
