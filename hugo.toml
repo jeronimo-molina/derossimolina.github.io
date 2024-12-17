@@ -2,7 +2,8 @@ baseURL = 'https://derossimolina.com.br/'
 languageCode = 'en-us'
 title = 'J. de Rossi Molina'
 theme = 'hugo-digital-garden-theme'
-copyright = '© 2024 J. de Rossi Molina'
+copyright = '© 2024 J. de Rossi Molina'    
+
 
 [params]
   name = "J. de Rossi Molina"
