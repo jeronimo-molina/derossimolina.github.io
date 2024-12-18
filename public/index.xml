@@ -26,6 +26,19 @@
     
     
     <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jeronimo@derossimolina.com.br (J. de Rossi Molina)</author>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Jeronimo Molina&lt;/strong&gt; is a professor of Administration and a PhD candidate in History at Uuniversity of Passo Fundo (Brazil), focusing on foreign policy, using data science as his methodology. He has several papers written about Public Administration, Organizational Ideology, Geopolitics, International Realations and Advance Statistics.&lt;/p&gt;
+&lt;p&gt;He is a scholarship holder in Sebrae RS&amp;rsquo;s Local Innovation Agents program and is developing an innovative business model, leverages machine learning to identify strategic opportunities in armed conflicts and corporate internationalization.&lt;/p&gt;
+&lt;p&gt;With expertise in programming, data science research, and technological solutions, Jeronimo develops applications in Python, custom websites with JavaScript, and task automation systems. He also uses tools like Obsidian for personal organization and Zotero for reference management, writing something about that.&lt;/p&gt;
+&lt;p&gt;He publishes an international politics newsletter on &lt;a href=&#34;https;//urbanointernational.substack.com&#34;&gt;Substack&lt;/a&gt; and writes articles on Medium also.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>History of Python</title>
       <link>/garden/python_history/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
@@ -43,15 +56,6 @@
 &lt;/h2&gt;
 &lt;p&gt;Python features a direct and concise syntax: it requires fewer punctuation marks and complex commands, making the code shorter and easier to read. For those in the Humanities, this makes all the difference, enabling tasks that were previously difficult and time-consuming to be completed quickly and without many obstacles. This simplicity is one of the factors that made Python a popular choice among professionals and researchers in History, Sociology, Economics, and even fields like Literature. Many of these professionals have found Python to be a valuable tool for analyzing textual data, conducting quantitative research, and exploring new methods of analysis.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>jeronimo@derossimolina.com.br (J. de Rossi Molina)</author>
-      <guid>/about/</guid>
-      <description></description>
     </item>
     
   </channel>

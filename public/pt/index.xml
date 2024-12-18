@@ -46,12 +46,16 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Sobre Mim</title>
       <link>/pt/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <author>jeronimo@derossimolina.com.br (J. de Rossi Molina)</author>
       <guid>/pt/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Jeronimo Molina&lt;/strong&gt; é professor de Administração e doutorando em História pela Universidade de Passo Fundo, com foco em política externa, utilizando ciência de dados como metodologia. Ele possui diversos artigos escritos sobre Administração Pública, Ideologia Organizacional, Geopolítica, Relações Internacionais e Estatística Avançada.&lt;/p&gt;
+&lt;p&gt;É bolsista do programa Agentes Locais de Inovação do Sebrae RS e está desenvolvendo um modelo de negócios inovador, que utiliza machine learning para identificar oportunidades estratégicas em conflitos armados e internacionalização de empresas.&lt;/p&gt;
+&lt;p&gt;Com expertise em programação, pesquisa em ciência de dados e soluções tecnológicas, Jeronimo desenvolve aplicações em Python, sites personalizados com JavaScript e sistemas de automação de tarefas. Ele também utiliza ferramentas como Obsidian para organização pessoal e Zotero para gerenciamento de referências, frequentemente escrevendo sobre esses tópicos.&lt;/p&gt;
+&lt;p&gt;Ele publica uma newsletter sobre política internacional no &lt;a href=&#34;https://urbanointernational.substack.com&#34;&gt;Substack&lt;/a&gt; e também escreve artigos no Medium.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
