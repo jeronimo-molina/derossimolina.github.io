@@ -60,15 +60,15 @@ url = "/garden/"
 weight = 3
 
 [[languages.en.menu.main]]
-name = "Projects"
-identifier = "projects"
-url = "/projects/"
+name = "Papers"
+identifier = "papers"
+url = "/papers/"
 weight = 4
 
 [[languages.en.menu.main]]
-name = "Library"
-identifier = "library"
-url = "/library/"
+name = "Docs"
+identifier = "docs"
+url = "/docs/"
 weight = 5
 
 [languages]
@@ -91,15 +91,15 @@ url = "/about/"
 weight = 2
 
 [[languages.pt.menu.main]]
-identifier = "projects"
-name = "Projetos"
-url = "/projects/"
+identifier = "papers"
+name = "Artigos Científicos"
+url = "/papers/"
 weight = 3
 
 [[languages.pt.menu.main]]
-identifier = "library"
-name = "Biblioteca"
-url = "/library/"
+identifier = "docs"
+name = "Documentos"
+url = "/docs/"
 weight = 4
 
 [[languages.pt.menu.main]]

@@ -2,119 +2,134 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-        <loc>https://derossimolina.com.br/</loc>
+        <loc>http://localhost:1313/tags/bulb-temperature/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+      </url><url>
+        <loc>http://localhost:1313/garden/bulb-app/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+      </url><url>
+        <loc>http://localhost:1313/papers/bulb-app-project/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+      </url><url>
+        <loc>http://localhost:1313/tags/climate-change/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+      </url><url>
+        <loc>http://localhost:1313/garden/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="http://localhost:1313/pt/garden/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="http://localhost:1313/garden/"
+        />
+      </url><url>
+        <loc>http://localhost:1313/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="http://localhost:1313/pt/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="http://localhost:1313/"
+        />
+      </url><url>
+        <loc>http://localhost:1313/papers/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+      </url><url>
+        <loc>http://localhost:1313/tags/python/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="http://localhost:1313/pt/tags/python/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="http://localhost:1313/tags/python/"
+        />
+      </url><url>
+        <loc>http://localhost:1313/tags/</loc>
+        <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+        <xhtml:link
+          rel="alternate"
+          hreflang="pt"
+          href="http://localhost:1313/pt/tags/"
+        />
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="http://localhost:1313/tags/"
+        />
+      </url><url>
+        <loc>http://localhost:1313/about/</loc>
         <lastmod>2024-12-17T00:00:00+00:00</lastmod>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="https://derossimolina.com.br/pt/"
+          href="http://localhost:1313/pt/about/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://derossimolina.com.br/"
+          href="http://localhost:1313/about/"
         />
       </url><url>
-        <loc>https://derossimolina.com.br/about/</loc>
+        <loc>http://localhost:1313/tags/digital_garden/</loc>
         <lastmod>2024-12-17T00:00:00+00:00</lastmod>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="https://derossimolina.com.br/pt/about/"
+          href="http://localhost:1313/pt/tags/digital_garden/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://derossimolina.com.br/about/"
+          href="http://localhost:1313/tags/digital_garden/"
         />
       </url><url>
-        <loc>https://derossimolina.com.br/tags/digital_garden/</loc>
+        <loc>http://localhost:1313/garden/python_history/</loc>
         <lastmod>2024-12-17T00:00:00+00:00</lastmod>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="https://derossimolina.com.br/pt/tags/digital_garden/"
+          href="http://localhost:1313/pt/garden/python_history/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://derossimolina.com.br/tags/digital_garden/"
+          href="http://localhost:1313/garden/python_history/"
         />
       </url><url>
-        <loc>https://derossimolina.com.br/garden/</loc>
-        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+        <loc>http://localhost:1313/authors/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="https://derossimolina.com.br/pt/garden/"
+          href="http://localhost:1313/pt/authors/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://derossimolina.com.br/garden/"
+          href="http://localhost:1313/authors/"
         />
       </url><url>
-        <loc>https://derossimolina.com.br/garden/python_history/</loc>
-        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+        <loc>http://localhost:1313/categories/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="pt"
-          href="https://derossimolina.com.br/pt/garden/python_history/"
+          href="http://localhost:1313/pt/categories/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://derossimolina.com.br/garden/python_history/"
-        />
-      </url><url>
-        <loc>https://derossimolina.com.br/tags/python/</loc>
-        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
-        <xhtml:link
-          rel="alternate"
-          hreflang="pt"
-          href="https://derossimolina.com.br/pt/tags/python/"
-        />
-        <xhtml:link
-          rel="alternate"
-          hreflang="en"
-          href="https://derossimolina.com.br/tags/python/"
-        />
-      </url><url>
-        <loc>https://derossimolina.com.br/tags/</loc>
-        <lastmod>2024-12-17T00:00:00+00:00</lastmod>
-        <xhtml:link
-          rel="alternate"
-          hreflang="pt"
-          href="https://derossimolina.com.br/pt/tags/"
-        />
-        <xhtml:link
-          rel="alternate"
-          hreflang="en"
-          href="https://derossimolina.com.br/tags/"
-        />
-      </url><url>
-        <loc>https://derossimolina.com.br/authors/</loc>
-        <xhtml:link
-          rel="alternate"
-          hreflang="pt"
-          href="https://derossimolina.com.br/pt/authors/"
-        />
-        <xhtml:link
-          rel="alternate"
-          hreflang="en"
-          href="https://derossimolina.com.br/authors/"
-        />
-      </url><url>
-        <loc>https://derossimolina.com.br/categories/</loc>
-        <xhtml:link
-          rel="alternate"
-          hreflang="pt"
-          href="https://derossimolina.com.br/pt/categories/"
-        />
-        <xhtml:link
-          rel="alternate"
-          hreflang="en"
-          href="https://derossimolina.com.br/categories/"
+          href="http://localhost:1313/categories/"
         />
       </url>
 </urlset>
