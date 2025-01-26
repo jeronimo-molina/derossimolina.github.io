@@ -1,12 +1,17 @@
 baseURL = 'https://derossimolina.com.br/'
 languageCode = 'en-us'
 title = 'J. de Rossi Molina'
-theme = 'hugo-theme-anubis2'
-copyright = '© 2024 J. de Rossi Molina'    
+theme = 'hextra'
+copyright = '© 2024-2025 J. de Rossi Molina'    
 defaultContentLanguage = "en"
 
 [pagination]
 pagerSize = 5
+
+[outputs]
+home = [ "HTML" ]
+page = [ "HTML" ]
+section = [ "HTML", "RSS" ]
 
 
 [params.author]
@@ -33,6 +38,28 @@ locale = "en-us"
 math = true # true: enable mathjax globally (default is false)
 toc = true
 
+[params.footer]
+enable = true
+displayCopyright = true
+displayPoweredBy = false
+width = "normal"
+
+[params.theme]
+default = "light"
+displayToggle = true
+
+[params.search]
+enable = true
+type = "flexsearch"
+
+[params.search.flexsearch]
+    index = "title"
+    tokenize = "forward"
+
+[params.highlight.copy]
+enable = true
+display = "hover"
+
 
 social = [
     { id = "github", url = "https://github.com/jeronimo-molina" },
@@ -54,9 +81,9 @@ url = "/about/"
 weight = 2
 
 [[languages.en.menu.main]]
-identifier = "garden"
-name = "Digital Garden"
-url = "/garden/"
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
 weight = 3
 
 [[languages.en.menu.main]]
@@ -80,7 +107,7 @@ languageName = "Português"
 
 [[languages.pt.menu.main]]
 identifier = "home"
-name = "Íncio"
+name = "Início"
 url = "/"
 weight = 1
 
@@ -91,22 +118,23 @@ url = "/about/"
 weight = 2
 
 [[languages.pt.menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 3
+
+[[languages.pt.menu.main]]
 identifier = "papers"
 name = "Artigos Científicos"
 url = "/papers/"
-weight = 3
+weight = 4
 
 [[languages.pt.menu.main]]
 identifier = "docs"
 name = "Documentos"
 url = "/docs/"
-weight = 4
-
-[[languages.pt.menu.main]]
-identifier = "garden"
-name = "Jardim Digital"
-url = "/garden/"
 weight = 5
+
 
 [languages.pt.params]
 languageCode = "pt-br"

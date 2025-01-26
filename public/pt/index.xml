@@ -1,62 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. de Rossi Molina</title>
-    <link>/pt/</link>
-    <description>J. de Rossi Molina</description>
+    <title>J. de Rossi Molina – </title>
+    <link>http://localhost:1313/pt/</link>
+    <description>Recent content on J. de Rossi Molina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
+    <copyright>© 2024-2025 J. de Rossi Molina</copyright>
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
+    
     
       
-        <managingEditor>jeronimo@derossimolina.com.br
-          
-            (J. de Rossi Molina)
-          
-        </managingEditor>
-      
-
       
     
-
-    
-    <copyright>© 2024 J. de Rossi Molina</copyright>
-    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    
-    <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>História do Python</title>
-      <link>/pt/garden/python_history/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <author>jeronimo@derossimolina.com.br (J. de Rossi Molina)</author>
-      <guid>/pt/garden/python_history/</guid>
-      <description>&lt;p&gt;Python foi criado no final dos anos 1980, numa época em que as linguagens de programação mais comuns eram complexas e voltadas para profissionais da área de Computação. Guido van Rossum, o programador holandês responsável pela criação, tinha em mente desenvolver uma linguagem de programação simples e fácil de aprender. Ele queria que a programação fosse acessível a mais pessoas, sem exigir delas um profundo conhecimento técnico. Assim, Python nasceu com a promessa de ser &amp;ldquo;fácil de ler e escrever&amp;rdquo;. E por que o nome Python? Van Rossum era fã do grupo de comédia britânico &amp;ldquo;Monty Python’s Flying Circus&amp;rdquo; e decidiu batizar a linguagem em homenagem a eles, trazendo também um certo ar de leveza e simplicidade, características que ficaram marcadas na linguagem.&lt;/p&gt;
-&lt;p&gt;Para entender a importância desse marco, vale lembrar que, naquela época, a programação era considerada um território técnico e árido. Linguagens como C, por exemplo, exigiam muito conhecimento em detalhes específicos, e a curva de aprendizado era tão íngreme que poucos fora das áreas de Exatas se aventuravam por ali. Python veio para desafiar essa tradição, buscando tornar a programação acessível para todos, inclusive para os que não tinham uma formação técnica – e nisso, conseguiu brilhar. Desde o início, Python priorizou a clareza e a legibilidade do código, facilitando a entrada de novos programadores, especialmente de áreas como Ciências Humanas, que lidam com dados, mas não têm programação como foco central.&lt;/p&gt;
-&lt;h2 id=&#34;sintaxe&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#sintaxe&#34;&gt;
-        #
-    &lt;/a&gt;
-    Sintaxe
-&lt;/div&gt;
-&lt;/h2&gt;
-&lt;p&gt;Python possui uma sintaxe direta e objetiva: ela exige menos pontuações e comandos complexos, o que significa que o código é mais curto e simples de ler. Para quem está na área de Ciências Humanas, isso faz toda a diferença, pois possibilita que tarefas antes difíceis e demoradas possam ser realizadas rapidamente e sem tantos obstáculos. A simplicidade foi um dos fatores que tornou Python uma escolha popular para profissionais e pesquisadores em História, Sociologia, Economia, e até áreas como Literatura. Muitos desses profissionais encontraram em Python uma ferramenta valiosa para analisar dados textuais, realizar pesquisas quantitativas e explorar novos métodos de análise.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sobre Mim</title>
-      <link>/pt/about/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <author>jeronimo@derossimolina.com.br (J. de Rossi Molina)</author>
-      <guid>/pt/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Jeronimo Molina&lt;/strong&gt; é professor de Administração e doutorando em História pela Universidade de Passo Fundo, com foco em política externa, utilizando ciência de dados como metodologia. Ele possui diversos artigos escritos sobre Administração Pública, Ideologia Organizacional, Geopolítica, Relações Internacionais e Estatística Avançada.&lt;/p&gt;
-&lt;p&gt;É bolsista do programa Agentes Locais de Inovação do Sebrae RS e está desenvolvendo um modelo de negócios inovador, que utiliza machine learning para identificar oportunidades estratégicas em conflitos armados e internacionalização de empresas.&lt;/p&gt;
-&lt;p&gt;Com expertise em programação, pesquisa em ciência de dados e soluções tecnológicas, Jeronimo desenvolve aplicações em Python, sites personalizados com JavaScript e sistemas de automação de tarefas. Ele também utiliza ferramentas como Obsidian para organização pessoal e Zotero para gerenciamento de referências, frequentemente escrevendo sobre esses tópicos.&lt;/p&gt;
-&lt;p&gt;Ele publica uma newsletter sobre política internacional no &lt;a href=&#34;https://urbanointernational.substack.com&#34;&gt;Substack&lt;/a&gt; e também escreve artigos no Medium.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

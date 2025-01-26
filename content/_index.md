@@ -1,8 +1,8 @@
-+++
-author = "J. de Rossi Molina"
-title = "J. de Rossi Molina | International Politics & Data Science"
-description = "PhD candidate in History writing about international politics using data science and analytics."
-+++
+---
+title: J. de Rossi Molina - blog & portfolio
+description: Portfolio, Blog & Insights
+toc: false
+---
 
 **Hi, there!** 👋  
 
@@ -13,6 +13,3 @@ I'm **J. de Rossi Molina**, a PhD candidate in History who explores the intersec
 - 📚 My latest blog posts on international politics.
 - 🔍 Insights from my research and data-driven analysis.
 - 🌍 Discussions about foreign policy, history, and innovation.
-
-### **Latest Posts**
-Stay updated with my recent articles:
