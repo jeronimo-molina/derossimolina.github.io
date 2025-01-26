@@ -1,7 +1,7 @@
 baseURL = 'https://derossimolina.com.br/'
 languageCode = 'en-us'
 title = 'J. de Rossi Molina'
-theme = 'hextra'
+theme = 'hugo-digital-garden-theme'
 copyright = '© 2024-2025 J. de Rossi Molina'    
 defaultContentLanguage = "en"
 
