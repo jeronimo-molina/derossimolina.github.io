@@ -1,0 +1,68 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. de Rossi Molina – Abouts</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on J. de Rossi Molina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/index.pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/index.pt/</guid>
+      <description>
+        
+        
+        &lt;div
+  class=&#34;hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-1 hx-gap-4 hx-w-full not-prose&#34;
+  style=&#34;--hextra-feature-grid-cols: 3; &#34;
+&gt;
+  
+&lt;a
+  href=&#34;http://localhost:1313/&#34; 
+  style=&#34;background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));&#34;
+  class=&#34;hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient&#34;
+&gt;
+  &lt;div class=&#34;hx-relative hx-w-full hx-p-6&#34;&gt;
+    &lt;h3 class=&#34;hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center&#34;&gt;
+      &lt;span&gt;&lt;/span&gt;
+    &lt;/h3&gt;
+    &lt;p class=&#34;hx-text-gray-500 dark:hx-text-gray-400 hx-text-sm hx-leading-6&#34;&gt;Sou Jerônimo de Rossi Molina, doutorando em História pela Universidade de Passo Fundo (UPF), com foco em conflitos internacionais e dinâmicas políticas a partir de uma perspectiva interdisciplinar.&lt;/p&gt;
+  &lt;/div&gt;&lt;img src=&#34;https://pbs.twimg.com/profile_images/1586606528336896000/qZ9Hb9DQ_400x400.jpg&#34; class=&#34;hx-absolute hx-max-w-none hx-top-[50%] hx-left-[50%] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;Minha pesquisa integra ciência de dados, história conceitual e geopolítica para analisar padrões em disputas territoriais, crises diplomáticas e interações estratégicas entre Estados. Abaixo, compartilho minha trajetória, publicações em formato ABNT e objetivos revisados, alinhados a conflitos e política internacional.&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;Formação e Objetivos de Pesquisa&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Minha jornada acadêmica começou nas humanidades, mas migrei para a ciência de dados buscando métodos mais robustos para analisar fenômenos políticos complexos. No mestrado — realizado em Administraçã — utilizei ferramentas estatísticas tradicionais, porém, com o tempo acabei migrand para Python e R, visando maior reprodutibilidade em estudos sobre conflitos históricos. No doutorado, concentro-me em &lt;strong&gt;conflitos internacionais&lt;/strong&gt; e estratégias geopolíticas, utilizando modelos preditivos para entender como Estados e organizações respondem a crises — desde guerras por recursos até disputas de influência em cenários multipolares.&lt;/p&gt;
+&lt;p&gt;Como cientista de dados, aplico técnicas de machine learning a bases históricas e contemporâneas, como registros diplomáticos e dados de organizações internacionais (ONU, OTAN, etc.). Meu GitHub reflete essa abordagem, com projetos que cruzam dados de fontes heterogêneas para mapear tensões geopolíticas.&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;Publicações&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Minhas contribuições acadêmicas priorizam a interface entre dados, Adminsitração Pública e Política Internacional.&lt;/p&gt;
+&lt;p&gt;de Rossi Molina, J. (2024). A DEMOCRACIA RADICAL E PLURAL COMO MÉTODO DE ANÁLISE EM GEOPOLÍTICA CRÍTICA. Hoplos - Revista De Estudos Estratégicos E Relações Internacionais, 8(15), 50-68. Recuperado de &lt;a href=&#34;https://periodicos.uff.br/hoplos/article/view/63796&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://periodicos.uff.br/hoplos/article/view/63796&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Molina, J. (2019). Digital political marketing: how to engage voters in a candidate’s ideas. Interdisciplinary Journal of Applied Science, 4(7), 12–16. Retrieved from &lt;a href=&#34;https://sou.ucs.br/revistas/index.php/ricaucs/article/view/75&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sou.ucs.br/revistas/index.php/ricaucs/article/view/75&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Molina, J. . (2019). Libertarianism in Power: an analysis of the possible impact of libertarian thought on public management in Caxias do Sul. Interdisciplinary Journal of Applied Science, 4(8), 8–16. Retrieved from &lt;a href=&#34;https://sou.ucs.br/revistas/index.php/ricaucs/article/view/82&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sou.ucs.br/revistas/index.php/ricaucs/article/view/82&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Molina, J. D. R. (2024). O discurso gerencialista como prática es-tratégica em uma administração pública municipal. Gestão.org, 22(1). &lt;a href=&#34;https://doi.org/10.51359/1679-1827.2024.261614&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.51359/1679-1827.2024.261614&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;Publicações em co-autoria&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Borsatto, C., Molina, J. D. R., Isoton, R., Bado, R., Giacomello, C. P., &amp;amp; Lazzari, F. (2022). EMPLOYMENT RELATIONSHIP BEFORE COVID-19 IN RS: AN ANALYSIS OF CAUSAL EFFECT AND REGRESSION. Brazilian Journal of Management and Innovation (Revista Brasileira De Gestão E Inovação), 9(3), 101–123. &lt;a href=&#34;https://doi.org/10.18226/23190639.v9n3.05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.18226/23190639.v9n3.05&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;Abordagem Interdisciplinar Revisada&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Meu trabalho atual enfatiza &lt;strong&gt;conflitos internacionais&lt;/strong&gt; e suas raízes históricas. Por exemplo, analiso disputas territoriais no século XX usando redes neurais para identificar padrões em discursos políticos e tratados. Outra frente é a modelagem de cenários de escalada de tensões, como a relação entre sanções econômicas e respostas estratégicas de Estados sob pressão. Esses modelos não apenas revisitam eventos históricos, mas também simulam possíveis desfechos para conflitos atuais.  No Substack mantenho &lt;a href=&#34;https://urbanointernational.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uma publicação&lt;/a&gt;, onde discuto temas como a ascensão de populismos e seu impacto na política externa, sempre vinculando teoria a dados empíricos.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Contato e Colaborações&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contato-e-colaborações&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contato-e-colabora%c3%a7%c3%b5es&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Convido pesquisadores e profissionais a explorarem meus códigos no GitHub e debaterem ideias no Medium. Para acesso a artigos completos, consultem:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Jeronimo-De-Rossi-Molina&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ResearchGate&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jeronimo-molina&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:jeronimo@derossimolina.com.br&#34; &gt;&lt;strong&gt;E-mail&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
